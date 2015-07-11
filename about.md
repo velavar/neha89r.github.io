@@ -19,6 +19,6 @@ Aim your bouquets and brickbats at neehaarika.velavarthy (AT) gmail (DOT) com
 </p>
 
 <p>
-This site uses the <a href="https://github.com/jekyll/jekyll">Jekyll</a> Site Generator along with the <a href="https://github.com/poole/hyde">Jekyll</a> theme and is hosted on Github Pages. 
+This site uses the <a href="https://github.com/jekyll/jekyll">Jekyll</a> Site Generator along with the <a href="https://github.com/poole/hyde">Hyde</a> theme and is hosted on Github Pages. 
 </p>
 Thanks for reading!

@@ -12,14 +12,7 @@ description:      'Nice to meet you!'
 url:              http://neha89r.github.io
 baseurl:          /
 
-author:
-  name:           'Neha'
-  url:            https://twitter.com/mdo
-
 paginate:         5
-
-# Custom vars
-version:          2.1.0
 
 github:
   repo:           https://github.com/neha89r

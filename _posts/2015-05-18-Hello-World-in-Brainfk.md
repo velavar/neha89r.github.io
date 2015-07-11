@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ##Adventures with Brainf**k
+title: Hello World in Brainfk
 ---
 
 

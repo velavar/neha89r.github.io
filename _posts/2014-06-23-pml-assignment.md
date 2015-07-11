@@ -1,6 +1,5 @@
 ---
 layout: post
-title: What's Jekyll?
 ---
 
 ## Practical Machine Learning - Assignment

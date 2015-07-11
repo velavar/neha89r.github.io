@@ -8,7 +8,6 @@ relative_permalinks: true
 
 # Setup
 title:            Neehaarika's Blog
-description:      'Nice to meet you!'
 url:              http://neha89r.github.io
 baseurl:          /
 

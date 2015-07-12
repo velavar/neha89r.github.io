@@ -4,6 +4,7 @@ title: Monte-Carlo Methods to Estimate Pi
 ---
 
 
+
   Just this weekend, I was mucking around with the Monte Carlo method for estimating &pi; and stumbled across quite a few interesting articles. It was intriguing to see the diversity of situatons that Monte-Carlo methods were adapted across and though I'll never get my head around most of them, I've - in this post - tried my hand at some classic problems just to get a sense of how well it works. 
 
   I don't suppose even for a second that Monte Carlo experiments find much favor with mathematical purists. Indeed anyone, through mere brute force, might come up with the right solutions to perplexing thought experiments like the [Monty-Hall problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) or the [Boy-or-girl paradox](http://en.wikipedia.org/wiki/Boy_or_Girl_paradox). That said, there is no denying the efficacy of Monte Carlo methods in deriving quick estimates or in situations entailing less elegant solutions. Also, some of these estimates/solutions are quite fun to pull off :). 
@@ -36,5 +37,5 @@ plot(x,y,pch='.',cex=2,col=ifelse(circle,"tomato","grey")
 {% endhighlight %}
 
 
-<img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-1.png" title="center" alt="center" style="display: block; margin: auto;" /><img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-2.png" title="center" alt="center" style="display: block; margin: auto;" /><img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-3.png" title="center" alt="center" style="display: block; margin: auto;" />
+<img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-1.png" title="center" alt="center" style="display: block; margin: auto;width: 350px;" /><img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-2.png" title="center" alt="center" style="display: block; margin: auto;width: 350px;" /><img src="http://velavar.github.io/images/MCM/unnamed-chunk-3-3.png" title="center" alt="center" style="display: block; margin: auto;width: 350px;" />
 

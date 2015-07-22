@@ -8,10 +8,10 @@ relative_permalinks: true
 
 # Setup
 title:            Neehaarika's Home Page
-url:              http://neha89r.github.io
+url:              http://velavar.github.io
 baseurl:          /
 
 paginate:         5
 
 github:
-  repo:           https://github.com/neha89r
+  repo:           https://github.com/velavar

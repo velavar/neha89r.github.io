@@ -65,6 +65,11 @@ grid.arrange(p1,p2, nrow=1)
 {% endhighlight %}
 
 
+
+{% highlight text %}
+## Warning in loop_apply(n, do.ply): Stacking not well defined when ymin != 0
+{% endhighlight %}
+
 <img src="http://velavar.github.io/images/recidivism/unnamed-chunk-8-1.png" title="center" alt="center" style="display: block; margin: auto;" />
 
 

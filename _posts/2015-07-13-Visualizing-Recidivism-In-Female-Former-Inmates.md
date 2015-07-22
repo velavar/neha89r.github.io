@@ -1,5 +1,8 @@
+---
+layout: post
+title: Visualizing recidivism rates in female former inmates
+---
 
-##Visualizing recidivism rates in female former inmates
 
 Mulling over [incarceration rates](https://en.wikipedia.org/wiki/Incarceration_in_the_United_States) among females prompts some interesting questions. *Over time, how many released female convicts relapse into their former behavior? How do such rates compare against their male counterparts? Are younger females more prone to relapse than older ones?* And so on.  [Scores of papers](https://www.google.com/?#q=recidivism+female+offenders) have been published over the past few years and with more or less the same conclusions. Happily, [The Bureau of Justice Statistics](http://www.bjs.gov/) has some really fine data analysis [tools](http://www.bjs.gov/index.cfm?ty=tp&tid=17) enabling exploration of such data. Though a tad dated (this data comes from 1994) and only expressed in percentages (understandably so), there some very good insights that can be derived from this data. 
 

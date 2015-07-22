@@ -1,5 +1,8 @@
+---
+layout: post
+title: Is there a good time to go UFO-spotting?
+---
 
-##Is there a good time to go UFO-spotting?
 
 A few days ago, I serendipitously happened upon [this](http://www.nuforc.org/webreports/ndxevent.html) gem of a website that recorded all known UFO sightings (in the USA) to date. The data was simply begging to be analyzed so I immediately set myself on the job. 
 
